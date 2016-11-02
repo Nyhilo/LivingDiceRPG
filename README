@@ -1,1 +1,4 @@
-Living Dice Game logic proof of concept project.
+Proof of concept for a Living Dice RPG.
+
+Aside from basic battle structure and inventory management,
+the purpose of this project is to mess with the idea of a randomized, branching storyline.
