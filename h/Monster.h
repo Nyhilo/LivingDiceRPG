@@ -10,7 +10,7 @@ private:
     float evasion;
     float attack;
 public:
-    monster(td::string Name, float Health, float Evasion, float Attack);
+    Monster(std::string Name, float Health, float Evasion, float Attack);
     ~Monster();
 
     // void damage (Monster& monster);
